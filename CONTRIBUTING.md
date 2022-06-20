@@ -1,13 +1,13 @@
 # Contributers to this repository
 
-## contributers
+## Contributers
 main: Andrew Breen (andrew.breen@sydney.edu.au)
 readepos.m : Baptiste Gault (b.gault@mpie.de)
 atomProbeRecon06.m: Peter Felfer (peter.felfer@fau.de) - with modifications by Andrew Breen
 readrange_rng05.m: Anna Ceguerra with modifications by Batpiste Gault and Andrew Breen 
 Other third party code was also used - please refer to code comments for more info
 
-#Beta testing
+# Beta testing
 Felix Theska (f.theska@unsw.edu.au)
 
 ## Community
