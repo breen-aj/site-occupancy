@@ -28,13 +28,13 @@ Some test data from one of the datasets used in the paper can be found here:
 
 [IN738 test data](https://unisyd-my.sharepoint.com/:f:/g/personal/andrew_breen_sydney_edu_au/EsWXSPq9giZJlmwQobTfwCYBSYqzOus8BAOpAHsLwj4AiQ?e=FtcplU, "IN738 test data")
 
-
+(link expires on the 17/12/2022)
 
 ## How to use the code
 To generate species specific SDMs:
 Open 'SDM_1D_SS_2021.m' in the Matlab editor and change user inputs to suit the dataset of interest.
 This main script calls the other functions contained in this repository. Make sure all code called is in the search path. Make sure all datasets (.epos, .pos, .rng etc.) are in your current folder.  
-Follow comments in script and called functions for detailed info/instructions
+Follow comments in script and called functions for detailed info/instructions.
 Please email andrew.breen@sydney.edu.au if there are problems or you require more information.
 
 
